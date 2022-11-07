@@ -111,6 +111,9 @@
 											<a title="Đơn hàng của tôi" href="{{route('user.orders')}}">Đơn hàng của tôi</a>
 										</li>
 										<li class="menu-item">
+											<a title="Hồ sơ cá nhân" href="{{route('user.profile')}}">Hồ sơ của tôi</a>
+										</li>
+										<li class="menu-item">
 											<a title="Thay đổi mật khẩu" href="{{route('user.changepassword')}}">Đổi mật khẩu</a>
 										</li>
 										<li class="menu-item">
